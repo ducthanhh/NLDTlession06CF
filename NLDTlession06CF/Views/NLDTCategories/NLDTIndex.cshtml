@@ -1,0 +1,33 @@
+﻿@model IEnumerable<NLDTlession06CF.Models.NLDTCategory>
+
+@{
+    ViewBag.Title = "NLDTIndex";
+}
+
+<h2>NLDTIndex</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NLDTCategoryName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NLDTCategoryName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.NLDTID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.NLDTID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.NLDTID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lesssion01\\NLDTlession06CF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|d:\\lesssion01\\nldtlession06cf\\nldtlession06cf\\models\\nldtbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|solutionrelative:nldtlession06cf\\models\\nldtbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|d:\\lesssion01\\nldtlession06cf\\nldtlession06cf\\controllers\\nldtbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|solutionrelative:nldtlession06cf\\controllers\\nldtbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|d:\\lesssion01\\nldtlession06cf\\nldtlession06cf\\views\\nldtcategories\\nldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|solutionrelative:nldtlession06cf\\views\\nldtcategories\\nldtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|d:\\lesssion01\\nldtlession06cf\\nldtlession06cf\\models\\nldtcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|solutionrelative:nldtlession06cf\\models\\nldtcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|d:\\lesssion01\\nldtlession06cf\\nldtlession06cf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|solutionrelative:nldtlession06cf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|d:\\lesssion01\\nldtlession06cf\\nldtlession06cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|solutionrelative:nldtlession06cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|d:\\lesssion01\\nldtlession06cf\\nldtlession06cf\\views\\nldtcategories\\nldtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|solutionrelative:nldtlession06cf\\views\\nldtcategories\\nldtcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|d:\\lesssion01\\nldtlession06cf\\nldtlession06cf\\models\\nldtcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|solutionrelative:nldtlession06cf\\models\\nldtcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|d:\\lesssion01\\nldtlession06cf\\nldtlession06cf\\models\\nldtbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE29195F-C3C2-41BF-A7B1-AEA90CE942A0}|NLDTlession06CF\\NLDTlession06CF.csproj|solutionrelative:nldtlession06cf\\models\\nldtbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Web.config",
+              "RelativeDocumentMoniker": "NLDTlession06CF\\Web.config",
+              "ToolTip": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Web.config",
+              "RelativeToolTip": "NLDTlession06CF\\Web.config",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-05T08:15:31.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NLDTBooksController.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Controllers\\NLDTBooksController.cs",
+              "RelativeDocumentMoniker": "NLDTlession06CF\\Controllers\\NLDTBooksController.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Controllers\\NLDTBooksController.cs",
+              "RelativeToolTip": "NLDTlession06CF\\Controllers\\NLDTBooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:09:50.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NLDTCreate.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Views\\NLDTCategories\\NLDTCreate.cshtml",
+              "RelativeDocumentMoniker": "NLDTlession06CF\\Views\\NLDTCategories\\NLDTCreate.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Views\\NLDTCategories\\NLDTCreate.cshtml",
+              "RelativeToolTip": "NLDTlession06CF\\Views\\NLDTCategories\\NLDTCreate.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T07:52:16.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NLDTlession06CF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NLDTlession06CF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T07:39:42.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NLDTIndex.cshtml",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Views\\NLDTCategories\\NLDTIndex.cshtml",
+              "RelativeDocumentMoniker": "NLDTlession06CF\\Views\\NLDTCategories\\NLDTIndex.cshtml",
+              "ToolTip": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Views\\NLDTCategories\\NLDTIndex.cshtml",
+              "RelativeToolTip": "NLDTlession06CF\\Views\\NLDTCategories\\NLDTIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T07:39:23.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NLDTCategoriesController.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Models\\NLDTCategoriesController.cs",
+              "RelativeDocumentMoniker": "NLDTlession06CF\\Models\\NLDTCategoriesController.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Models\\NLDTCategoriesController.cs",
+              "RelativeToolTip": "NLDTlession06CF\\Models\\NLDTCategoriesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:27:17.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NLDTBookStore.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Models\\NLDTBookStore.cs",
+              "RelativeDocumentMoniker": "NLDTlession06CF\\Models\\NLDTBookStore.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Models\\NLDTBookStore.cs",
+              "RelativeToolTip": "NLDTlession06CF\\Models\\NLDTBookStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:59:02.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NLDTBook.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Models\\NLDTBook.cs",
+              "RelativeDocumentMoniker": "NLDTlession06CF\\Models\\NLDTBook.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Models\\NLDTBook.cs",
+              "RelativeToolTip": "NLDTlession06CF\\Models\\NLDTBook.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:51:06.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NLDTCategory.cs",
+              "DocumentMoniker": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Models\\NLDTCategory.cs",
+              "RelativeDocumentMoniker": "NLDTlession06CF\\Models\\NLDTCategory.cs",
+              "ToolTip": "D:\\lesssion01\\NLDTlession06CF\\NLDTlession06CF\\Models\\NLDTCategory.cs",
+              "RelativeToolTip": "NLDTlession06CF\\Models\\NLDTCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:48:08.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
